@@ -1,0 +1,3 @@
+Link for Jupyter NB
+
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
